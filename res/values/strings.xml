@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidLove</string>
+    <string name="action_settings">Settings</string>
+    <string name="heading">Android Love</string>
+   <string name="content">Andoid is a free OS that runs on any device
+        \n it gives its users great feel </string>
+        
+   <string name="show">Click Button</string>
+
+</resources>
